@@ -65,7 +65,7 @@ If you have any questions or need further assistance, feel free to reach out:
 
 - GitHub: [Your GitHub Username](https://github.com/didierthomasm)
 - Email: didierthomas.m@gmail.com
-- 
+
 ## Walkthrough Video
 
 For a detailed walkthrough of how to use the Awesome SVG Logo Maker, 

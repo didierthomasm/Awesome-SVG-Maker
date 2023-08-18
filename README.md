@@ -1,6 +1,7 @@
 # Awesome SVG Logo Maker
 
-Generate simple logos for your projects using this Node.js command-line application. Say goodbye to paying graphic designers and create logos with ease!
+Generate simple logos for your projects using this Node.js command-line application. 
+Say goodbye to paying graphic designers and create logos with ease!
 
 ## Table of Contents
 
@@ -9,6 +10,7 @@ Generate simple logos for your projects using this Node.js command-line applicat
 - [Installation](#installation)
 - [Usage](#usage)
 - [Examples](#examples)
+- [Questions](#questions)
 - [Walkthrough Video](#walkthrough-video)
 - [Technologies](#technologies)
 - [Contributing](#contributing)
@@ -57,10 +59,18 @@ Here are a few examples of SVG logos generated using the Awesome SVG Logo Maker:
 - ![Triangle Logo](./examples/triangle_logo.svg)
 - ![Square Logo](./examples/square_logo.svg)
 
+## Questions
+
+If you have any questions or need further assistance, feel free to reach out:
+
+- GitHub: [Your GitHub Username](https://github.com/didierthomasm)
+- Email: didierthomas.m@gmail.com
+- 
 ## Walkthrough Video
 
 For a detailed walkthrough of how to use the Awesome SVG Logo Maker, 
-check out our [Walkthrough Video](link-to-your-video).
+check out our [Walkthrough Video](./assets/video/awesome_svg_maker.gif).
+![Example GIF](./assets/video/awesome_svg_maker.gif)
 
 The video covers:
 
@@ -84,3 +94,4 @@ If you find a bug or want to improve the application, please open an issue or su
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+![License Badge](https://img.shields.io/badge/License-MIT%20License-blue.svg)
